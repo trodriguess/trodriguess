@@ -14,24 +14,45 @@
 
 ### **Language and data**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,java,cs" />
+<a href="https://devicon.dev/">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://devicon.dev/">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  </a>
+  <a href="https://devicon.dev/">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  </a>
+    <a href="https://devicon.dev/">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  </a>
+  <a href="https://devicon.dev/">
+    <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   </a>
     <a href="https://go-skill-icons.vercel.app/">
-    <img height="45" width="45" src="https://go-skill-icons.vercel.app/api/icons?i=plsql" />
+    <img height="50" width="50" src="https://go-skill-icons.vercel.app/api/icons?i=plsql" />
   </a
 </p>
 
 ### **Testing and DevOps**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,gherkin,git,github,gitlab" />
+  <a href="https://devicon.dev/">
+    <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
    </a>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mocha,jira" />
-  </a>
+  <a href="https://devicon.dev/">
+    <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain-wordmark.svg" />
+   </a>
   <a href="https://skillicons.dev">
-    <img height="50" width="48" src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+   </a>
+  <a href="https://devicon.dev/">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" />
+   </a>
+  <a href="https://devicon.dev/">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+   </a>
+  <a href="https://devicon.dev/">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
   </a>
 
 </p>
