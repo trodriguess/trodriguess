@@ -1,9 +1,9 @@
 # About Me
 
 - Hi, I am Thais! 👋
-- 💼 Manual QA Analyst since 2018.
+- 💼 QA Analyst since 2018.
 - 🎓 Studying **Software Quality Engineering** at the postgraduate at SENAC.
-- 🌱 I'm studying test automation using **JavaScript** and **Cypress**.
+- 🌱 I'm studying test automation using **JavaScript**, **Cypress** **Java** and **Selenium**.
 
 ## My Skills
 <p align="center">
@@ -20,12 +20,18 @@
     <a href="https://go-skill-icons.vercel.app/">
     <img height="45" width="45" src="https://go-skill-icons.vercel.app/api/icons?i=plsql" />
   </a
+    <a href="https://go-skill-icons.vercel.app/">
+    <img height="45" width="45" src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" />
+  </a
+    <a href="https://go-skill-icons.vercel.app/">
+    <img height="45" width="45" src="https://go-skill-icons.vercel.app/api/icons?i=postgres" />
+  </a
 </p>
 
 ### **Testing and DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,gherkin,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=cypress,selenium,gherkin,git,github,gitlab" />
    </a>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mocha,jira" />
